@@ -1,7 +1,9 @@
 > [!CAUTION]
 > **This project is archived and no longer maintained.**
 > Archived: 2026-03-26
-> Reason: Low community usage; no longer maintained# ansible-prometheus-alertmanager
+> Reason: Low community usage; no longer maintained
+
+# ansible-prometheus-alertmanager
 
 Ansible role to install/configure Prometheus alertmanager
 
